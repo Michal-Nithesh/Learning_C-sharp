@@ -1,0 +1,14 @@
+D:\Learning C#\Program Flow\WhileLoops\bin\Debug\net8.0\WhileLoops.exe
+D:\Learning C#\Program Flow\WhileLoops\bin\Debug\net8.0\WhileLoops.deps.json
+D:\Learning C#\Program Flow\WhileLoops\bin\Debug\net8.0\WhileLoops.runtimeconfig.json
+D:\Learning C#\Program Flow\WhileLoops\bin\Debug\net8.0\WhileLoops.dll
+D:\Learning C#\Program Flow\WhileLoops\bin\Debug\net8.0\WhileLoops.pdb
+D:\Learning C#\Program Flow\WhileLoops\obj\Debug\net8.0\WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning C#\Program Flow\WhileLoops\obj\Debug\net8.0\WhileLoops.AssemblyInfoInputs.cache
+D:\Learning C#\Program Flow\WhileLoops\obj\Debug\net8.0\WhileLoops.AssemblyInfo.cs
+D:\Learning C#\Program Flow\WhileLoops\obj\Debug\net8.0\WhileLoops.csproj.CoreCompileInputs.cache
+D:\Learning C#\Program Flow\WhileLoops\obj\Debug\net8.0\WhileLoops.dll
+D:\Learning C#\Program Flow\WhileLoops\obj\Debug\net8.0\refint\WhileLoops.dll
+D:\Learning C#\Program Flow\WhileLoops\obj\Debug\net8.0\WhileLoops.pdb
+D:\Learning C#\Program Flow\WhileLoops\obj\Debug\net8.0\WhileLoops.genruntimeconfig.cache
+D:\Learning C#\Program Flow\WhileLoops\obj\Debug\net8.0\ref\WhileLoops.dll

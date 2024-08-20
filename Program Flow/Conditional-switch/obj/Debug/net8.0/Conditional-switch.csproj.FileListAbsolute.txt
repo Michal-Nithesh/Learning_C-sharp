@@ -1,0 +1,14 @@
+D:\Learning C#\Program Flow\Conditional-switch\bin\Debug\net8.0\Conditional-switch.exe
+D:\Learning C#\Program Flow\Conditional-switch\bin\Debug\net8.0\Conditional-switch.deps.json
+D:\Learning C#\Program Flow\Conditional-switch\bin\Debug\net8.0\Conditional-switch.runtimeconfig.json
+D:\Learning C#\Program Flow\Conditional-switch\bin\Debug\net8.0\Conditional-switch.dll
+D:\Learning C#\Program Flow\Conditional-switch\bin\Debug\net8.0\Conditional-switch.pdb
+D:\Learning C#\Program Flow\Conditional-switch\obj\Debug\net8.0\Conditional-switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning C#\Program Flow\Conditional-switch\obj\Debug\net8.0\Conditional-switch.AssemblyInfoInputs.cache
+D:\Learning C#\Program Flow\Conditional-switch\obj\Debug\net8.0\Conditional-switch.AssemblyInfo.cs
+D:\Learning C#\Program Flow\Conditional-switch\obj\Debug\net8.0\Conditional-switch.csproj.CoreCompileInputs.cache
+D:\Learning C#\Program Flow\Conditional-switch\obj\Debug\net8.0\Conditional-switch.dll
+D:\Learning C#\Program Flow\Conditional-switch\obj\Debug\net8.0\refint\Conditional-switch.dll
+D:\Learning C#\Program Flow\Conditional-switch\obj\Debug\net8.0\Conditional-switch.pdb
+D:\Learning C#\Program Flow\Conditional-switch\obj\Debug\net8.0\Conditional-switch.genruntimeconfig.cache
+D:\Learning C#\Program Flow\Conditional-switch\obj\Debug\net8.0\ref\Conditional-switch.dll

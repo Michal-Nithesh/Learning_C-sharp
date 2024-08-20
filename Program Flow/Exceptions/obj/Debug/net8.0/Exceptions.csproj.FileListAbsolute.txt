@@ -1,0 +1,14 @@
+D:\Learning C#\Program Flow\Exceptions\bin\Debug\net8.0\Exceptions.exe
+D:\Learning C#\Program Flow\Exceptions\bin\Debug\net8.0\Exceptions.deps.json
+D:\Learning C#\Program Flow\Exceptions\bin\Debug\net8.0\Exceptions.runtimeconfig.json
+D:\Learning C#\Program Flow\Exceptions\bin\Debug\net8.0\Exceptions.dll
+D:\Learning C#\Program Flow\Exceptions\bin\Debug\net8.0\Exceptions.pdb
+D:\Learning C#\Program Flow\Exceptions\obj\Debug\net8.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning C#\Program Flow\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfoInputs.cache
+D:\Learning C#\Program Flow\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfo.cs
+D:\Learning C#\Program Flow\Exceptions\obj\Debug\net8.0\Exceptions.csproj.CoreCompileInputs.cache
+D:\Learning C#\Program Flow\Exceptions\obj\Debug\net8.0\Exceptions.dll
+D:\Learning C#\Program Flow\Exceptions\obj\Debug\net8.0\refint\Exceptions.dll
+D:\Learning C#\Program Flow\Exceptions\obj\Debug\net8.0\Exceptions.pdb
+D:\Learning C#\Program Flow\Exceptions\obj\Debug\net8.0\Exceptions.genruntimeconfig.cache
+D:\Learning C#\Program Flow\Exceptions\obj\Debug\net8.0\ref\Exceptions.dll
