@@ -1,0 +1,14 @@
+D:\Learning C#\Overview\VarsAndData\bin\Debug\net8.0\VarsAndData.exe
+D:\Learning C#\Overview\VarsAndData\bin\Debug\net8.0\VarsAndData.deps.json
+D:\Learning C#\Overview\VarsAndData\bin\Debug\net8.0\VarsAndData.runtimeconfig.json
+D:\Learning C#\Overview\VarsAndData\bin\Debug\net8.0\VarsAndData.dll
+D:\Learning C#\Overview\VarsAndData\bin\Debug\net8.0\VarsAndData.pdb
+D:\Learning C#\Overview\VarsAndData\obj\Debug\net8.0\VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning C#\Overview\VarsAndData\obj\Debug\net8.0\VarsAndData.AssemblyInfoInputs.cache
+D:\Learning C#\Overview\VarsAndData\obj\Debug\net8.0\VarsAndData.AssemblyInfo.cs
+D:\Learning C#\Overview\VarsAndData\obj\Debug\net8.0\VarsAndData.csproj.CoreCompileInputs.cache
+D:\Learning C#\Overview\VarsAndData\obj\Debug\net8.0\VarsAndData.dll
+D:\Learning C#\Overview\VarsAndData\obj\Debug\net8.0\refint\VarsAndData.dll
+D:\Learning C#\Overview\VarsAndData\obj\Debug\net8.0\VarsAndData.pdb
+D:\Learning C#\Overview\VarsAndData\obj\Debug\net8.0\VarsAndData.genruntimeconfig.cache
+D:\Learning C#\Overview\VarsAndData\obj\Debug\net8.0\ref\VarsAndData.dll
